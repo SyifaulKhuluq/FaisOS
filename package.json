@@ -1,0 +1,1 @@
+{ "name": "faisos-web-panel", "version": "1.0.0", "scripts": { "dev": "vite", "build": "vite build" }, "dependencies": { "vue": "^3.0.0" }, "devDependencies": { "vite": "^4.0.0" } }
